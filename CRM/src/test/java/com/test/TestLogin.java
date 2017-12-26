@@ -5,6 +5,6 @@ public class TestLogin {
 		System.out.println("gggggggggggg");
 	}
 	public static void display() {
-		
+		System.out.println("display");
 	}
 }
